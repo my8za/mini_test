@@ -15,6 +15,7 @@
 	font-weight: 700;
 	text-align: center;
 	line-height: 48px;
+	cursor: pointer;
 }
 
 .btn:active {
